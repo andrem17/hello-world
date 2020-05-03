@@ -1,4 +1,4 @@
 # hello-world
 C , Python 
 
-New in the programing world!
+New in the programming world!
